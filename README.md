@@ -15,14 +15,11 @@ Payment Analysis: Identify the most popular payment methods.
 
 Pickup & Drop-off Analysis: Identify the busiest pickup and drop-off locations.
 
-Monthly Trends: Analyze monthly trip volume and revenue trends.
 
-Performance Analysis: Compare trip performance across vendors and locations.
 
-Interactive Dashboard: Explore key insights using Power BI filters and visualizations.
+**How to Run Locally**
 
-**How to Run Locally
-**
+
 git clone YOUR_GITHUB_REPOSITORY_URL
 
 cd NYC-Taxi-Trip-Analysis
